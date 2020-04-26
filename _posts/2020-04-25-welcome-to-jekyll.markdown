@@ -5,8 +5,13 @@ date:   2020-04-25 18:10:22 -0400
 categories: novel update
 
 ---
+> ### "Water has memory. It remembers the shape of the containers it is kept in even when it later flows freely. Water is alive, although its consciousness is dull and primitive. That is why we study water in all its aspects and how it affects that which interacts with it, including men." --Samuel Hahneman, the founder of the science of homeopathy.
 
-The American battlecruiser Abraham Lincoln was the culmination of the pre-Civil War era of warship design and construction. It replaced guns of various different calibres, as used on capital ships of most nations, with a single calibre for the main armaments of the ship. It was also one of the first steam-powered battleships, going to sea a few years after the French battleship *Napoleon*. It had six 8-inch guns in three turrets, one in the center of the ship and two located in wing turrets on either side of the ship.
+The 1860s saw the rise of the steam-powered metal warship and the fall of the wooden sailing vessel. The French battleship *Napoleon* was one of the first of these new iron-clad vessels.
+
+US naval planners were aware of this technological improvement. In the early 1860s a group of officers including xxx xxxx, who was later to command the first American steam-powered battleship the USS Abraham Lincoln, repeatedly approached President Lincoln and implored him to construch such a vessel. At first he ignored such requests but eventually he gave in.  
+
+The battlecruiser USS Abraham Lincoln was the first American steam-powered warship. Instead of guns of various different calibres, as used on capital ships of most nations, it used a single calibre for its main armaments. It had six 8-inch guns in three turrets, one in the center of the ship and two located in wing turrets on either side of the ship.
 
 The late President Lincoln's daughter x christened the ship in August 1866, although workers continued to make improvements to it for the next year. There was an unpleasant incident in the days leading up to the christening.
 
