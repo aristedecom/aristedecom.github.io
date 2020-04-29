@@ -11,7 +11,7 @@ by Jonathan S. Mark
 
 The 1860s saw the rise of the steam-powered metal warship and the decline of its predecessor, the wooden sailing vessel. US naval planners were aware of the potential of such iron-clad steamships and sought to construct one themselves. In the early 1860s various groups of officers (including Commander David Farragut, who was later to command the *Abraham Lincoln*) repeatedly approached President Lincoln and implored him to construct such a ship. At first President Lincoln ignored such requests but eventually he gave in.  
 
-The battlecruiser *USS Saturn's Four Guitars* (the Navy later renamed it the *USS Abraham Lincoln* in the aftermath of Lincoln's assassination) was the first American steam-powered warship. President Lincoln's son Robert christened the ship in August 1866. But there was an unpleasant incident in the days leading up to the christening.
+The battlecruiser *USS Saturn's Four Guitars* (which the Navy later renamed the *USS Abraham Lincoln* in the aftermath of Lincoln's assassination) was the first American steam-powered warship. President Lincoln's son Robert christened the ship in August 1866. But there was an unpleasant incident in the days leading up to the christening.
 
 Lincoln's successor Andrew Johnson was on board his special train taking him to the christening in Annapolis, Maryland.  
 [President Johnson asked to move his seat]
